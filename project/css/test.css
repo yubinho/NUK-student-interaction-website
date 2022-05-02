@@ -1,0 +1,66 @@
+.comment1 {
+    padding-top: 35px;
+    padding-bottom: 1px;
+    border-top: 1px solid #f4f4f4;
+    border-bottom: 1px solid #f4f4f4;
+    margin: 3em auto 5em auto;
+    max-width: 1000px;
+    width: 100%;
+    font-family: Microsoft JhengHei;
+}
+
+.comment1 h5#headd {
+    font-family: Microsoft JhengHei;
+    font-weight: bold;
+    color: rgb(255, 36, 36);
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+}
+
+.comment1 h5#sayy {
+    font-family: Microsoft JhengHei;
+    font-weight: bold;
+    color: rgb(255, 222, 36);
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+    font-size: 25px;
+}
+
+.comment1 p {
+    font-size: 2em;
+    color: black;
+    font-weight: bold;
+    /* margin: 0.4em 0 1em; */
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+
+.comment1 footer {
+    color: rgb(88, 203, 248);
+    display: inline;
+}
+
+#bbt {
+    font-family: Microsoft JhengHei;
+}
+
+.comment1 h6 {
+    display: inline;
+    color: rgb(157, 181, 182);
+}
+
+.comment1 blockquote {
+    color: grey;
+}
+
+.haha #exampleInputEmail1 {
+    display: inline;
+}
+
+.comment1 img {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.comment1 .mmi {
+    text-align: center;
+}

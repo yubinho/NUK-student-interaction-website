@@ -1,0 +1,14 @@
+#intro .jumbotron {
+  height: 100vh;
+}
+
+p,
+a,
+input,
+label,
+textarea,
+span,
+ul,
+li {
+  font-family: "Noto Sans TC", sans-serif;
+}
