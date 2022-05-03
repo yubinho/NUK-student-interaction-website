@@ -1,1 +1,1 @@
-# NUK-student-interation-website
+# NUK-student-interaction-website
